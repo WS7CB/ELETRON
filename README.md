@@ -90,7 +90,6 @@
                 <a href="#about" class="nav-link text-gray-600 hover:text-dark font-medium">Sobre</a>
                 <a href="#contact" class="nav-link text-gray-600 hover:text-dark font-medium">Contato</a>
             </nav>
-            
             <button class="md:hidden text-gray-600" id="menu-toggle">
                 <i class="fas fa-bars text-2xl"></i>
             </button>
@@ -105,9 +104,7 @@
                 <a href="#about" class="text-gray-600 hover:text-dark font-medium">Sobre</a>
                 <a href="#contact" class="text-gray-600 hover:text-dark font-medium">Contato</a>
             </div>
-        </div>
-    </header>
-
+            
     <!-- Hero Section -->
     <section id="home" class="hero-gradient py-10 md:py-20">
         <div class="container mx-auto px-4">
@@ -125,7 +122,7 @@
                 </div>
               </div>
             </div>
-        </div>
+     
     </section>
 
     <!-- Stats Section -->
