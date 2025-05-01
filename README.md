@@ -260,7 +260,7 @@
                 
                 <div class="project-card bg-white rounded-xl overflow-hidden shadow-md">
                     <div class="h-48 overflow-hidden">
-                        <img src="C:\Users\wosou\Desktop\site\PROJETO ELETRON\image.jpg" alt="Projeto Comercial" class="w-full h-full object-cover">
+                        <img src="https://github.com/WS7CB/ELETRON/blob/main/image.jpg?raw=true" alt="Projeto Comercial" class="w-full h-full object-cover">
                     </div>
                     <div class="p-6">
                         <span class="text-primary text-sm font-medium">Eficiência Energética</span>
@@ -275,7 +275,7 @@
 
                 <div class="project-card bg-white rounded-xl overflow-hidden shadow-md">
                     <div class="h-48 overflow-hidden">
-                        <img src="https://github.com/WS7CB/ELETRON/blob/main/image.jpg?raw=true" alt="Projeto Comercial" class="w-full h-full object-cover">
+                        <img src="https://github.com/WS7CB/ELETRON/blob/main/image5.jpg?raw=true" alt="Projeto Comercial" class="w-full h-full object-cover">
                     </div>
                     <div class="p-6">
                         <span class="text-primary text-sm font-medium">Minigeração distribuída</span>
