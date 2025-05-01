@@ -145,7 +145,7 @@
                 <div class="stat-card bg-white p-6 rounded-xl shadow-md border border-gray-100">
                     <div class="text-primary text-4xl mb-3">
                         <i class="fas fa-lightbulb"></i>
-                    </div>
+                  
                     <h3 class="text-3xl font-bold text-dark mb-2">80%</h3>
                     <p class="text-gray-600">Economia média de energia</p>
                 </div>
