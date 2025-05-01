@@ -246,7 +246,7 @@
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <div class="project-card bg-white rounded-xl overflow-hidden shadow-md">
                     <div class="h-48 overflow-hidden">
-                        <img src="image.jpg">
+                        <img src="https://github.com/WS7CB/ELETRON/blob/main/image2.jpg?raw=true">
                     </div>
                     <div class="p-6">
                         <span class="text-primary text-sm font-medium">Microgeração Distribuída</span>
