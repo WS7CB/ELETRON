@@ -72,6 +72,17 @@
             width: 100%;
         }
     </style>
+    </head>
+<body class="bg-gray-50">
+    <!-- Header/Navigation -->
+    <header class="bg-white shadow-sm sticky top-0 z-50">
+        <div class="container mx-auto px-4 py-4 flex justify-between items-center">
+            <div class="flex items-center">
+                <div class="w-12 h-12 rounded-full bg-primary flex items-center justify-center mr-3">
+                    <i class="fas fa-bolt text-white text-xl"></i>
+                </div>
+                <a href="#" class="text-2xl font-bold text-dark">Volt<span class="text-primary">Renew</span></a>
+            </div>
             <nav class="hidden md:flex space-x-8">
                 <a href="#home" class="nav-link text-gray-600 hover:text-dark font-medium">Início</a>
                 <a href="#services" class="nav-link text-gray-600 hover:text-dark font-medium">Serviços</a>
