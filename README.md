@@ -71,7 +71,7 @@
             width: 100%;
         }
     </style>
-    </head>
+</head>
 <body class="bg-gray-50">
     <!-- Header/Navigation -->
     <header class="bg-white shadow-sm sticky top-0 z-50">
@@ -82,6 +82,7 @@
                 </div>
                 <a href="#" class="text-2xl font-bold text-dark">Volt<span class="text-primary">Renew</span></a>
             </div>
+            
             <nav class="hidden md:flex space-x-8">
                 <a href="#home" class="nav-link text-gray-600 hover:text-dark font-medium">Início</a>
                 <a href="#services" class="nav-link text-gray-600 hover:text-dark font-medium">Serviços</a>
@@ -89,6 +90,7 @@
                 <a href="#about" class="nav-link text-gray-600 hover:text-dark font-medium">Sobre</a>
                 <a href="#contact" class="nav-link text-gray-600 hover:text-dark font-medium">Contato</a>
             </nav>
+            
             <button class="md:hidden text-gray-600" id="menu-toggle">
                 <i class="fas fa-bars text-2xl"></i>
             </button>
@@ -103,7 +105,9 @@
                 <a href="#about" class="text-gray-600 hover:text-dark font-medium">Sobre</a>
                 <a href="#contact" class="text-gray-600 hover:text-dark font-medium">Contato</a>
             </div>
-            
+        </div>
+    </header>
+
     <!-- Hero Section -->
     <section id="home" class="hero-gradient py-10 md:py-20">
         <div class="container mx-auto px-4">
@@ -121,7 +125,7 @@
                 </div>
               </div>
             </div>
-     
+        </div>
     </section>
 
     <!-- Stats Section -->
@@ -145,7 +149,7 @@
                 <div class="stat-card bg-white p-6 rounded-xl shadow-md border border-gray-100">
                     <div class="text-primary text-4xl mb-3">
                         <i class="fas fa-lightbulb"></i>
-                  
+                    </div>
                     <h3 class="text-3xl font-bold text-dark mb-2">80%</h3>
                     <p class="text-gray-600">Economia média de energia</p>
                 </div>
@@ -241,7 +245,7 @@
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <div class="project-card bg-white rounded-xl overflow-hidden shadow-md">
                     <div class="h-48 overflow-hidden">
-                        <img src="https://github.com/WS7CB/ELETRON/blob/main/image2.jpg?raw=true">
+                        <img src="image.jpg">
                     </div>
                     <div class="p-6">
                         <span class="text-primary text-sm font-medium">Microgeração Distribuída</span>
@@ -256,7 +260,7 @@
                 
                 <div class="project-card bg-white rounded-xl overflow-hidden shadow-md">
                     <div class="h-48 overflow-hidden">
-                        <img src="https://github.com/WS7CB/ELETRON/blob/main/image.jpg?raw=true" alt="Projeto Comercial" class="w-full h-full object-cover">
+                        <img src="C:\Users\wosou\Desktop\site\PROJETO ELETRON\image.jpg" alt="Projeto Comercial" class="w-full h-full object-cover">
                     </div>
                     <div class="p-6">
                         <span class="text-primary text-sm font-medium">Eficiência Energética</span>
@@ -271,7 +275,7 @@
 
                 <div class="project-card bg-white rounded-xl overflow-hidden shadow-md">
                     <div class="h-48 overflow-hidden">
-                        <img src="https://github.com/WS7CB/ELETRON/blob/main/image.jpg?raw=true">
+                        <img src="C:\Users\wosou\Desktop\site\PROJETO ELETRON\image3.jpg" alt="Projeto Comercial" class="w-full h-full object-cover">
                     </div>
                     <div class="p-6">
                         <span class="text-primary text-sm font-medium">Minigeração distribuída</span>
