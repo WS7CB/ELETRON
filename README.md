@@ -230,7 +230,7 @@
                     </ul>
                 </div>
         </div>
-    </section>
+
 
     <!-- Projects Section -->
     <section id="projects" class="py-20 bg-white">
@@ -287,7 +287,7 @@
                     </div>
                 </div>
         </div>
-    </section>
+ 
 
     <!-- About Section -->
     <section id="about" class="py-20 bg-gray-50">
